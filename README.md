@@ -4,7 +4,7 @@ This project analyzes Pewlett Hackard's employee data from the 1980s and 1990s. 
 
 # Entity Relationship Diagram
 
-![ERD](ERD.png)
+![ERD](https://github.com/AniGEA/sql-challenge/assets/158235055/812f10be-b2ca-498f-98c3-b67a6a0c82b1)
 
 
 
