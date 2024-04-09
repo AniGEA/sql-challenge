@@ -1,3 +1,14 @@
+# EmployeeSQL
+
+This project analyzes Pewlett Hackard's employee data from the 1980s and 1990s. With only six CSV files, the goal is to design tables, import data into an SQL database, and conduct insightful data analysis to uncover valuable insights about Pewlett Hackard's workforce during this era.
+
+
+
+
+
+
+
+
 ## Instructions
 This Challenge is divided into three parts: data modeling, data engineering, and data analysis.
 Data Modeling
